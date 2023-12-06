@@ -1,0 +1,19 @@
+img {
+  user-select: none;
+}
+
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.game {
+  display: flex;
+  justify-content: center;
+  margin-top: 30%;
+}
+
+.tweet {
+  margin-top: 10%;
+}
